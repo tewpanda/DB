@@ -5,7 +5,6 @@ __pycache__/
 .venv/*
 
 # SQLite
-*.sqlite3
 *.db
 
 # IDEs
