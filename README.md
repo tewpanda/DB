@@ -1,6 +1,6 @@
 # DB Project
 
-Proyecto de base de datos — estructura y artefactos iniciales.
+Proyecto de base de datos - estructura y artefactos iniciales.
 
 Descripción
 ---------
